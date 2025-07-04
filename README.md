@@ -44,7 +44,5 @@ Gain hands-on experience with a Virtual Private Network (VPN) and understand how
 - Does not guarantee complete anonymity.
 - Cannot protect from phishing/malware alone.
 
----
 
-## 📁 Repository Structure
 
